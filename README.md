@@ -10,6 +10,9 @@ Use one page to learn how to get the weather information in CWB.
 ### BeautifulSoup:
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
+### urllib:
+- https://docs.python.org/3/library/urllib.html
+
 ## 此次用到的資料：
 
 ### CWB open data:
