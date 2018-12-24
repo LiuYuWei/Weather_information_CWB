@@ -12,8 +12,8 @@ Use one page to learn how to get the weather information in CWB.
 
 ## 此次用到的資料：
 
-### SVM:
-- https://data.gov.tw/dataset/6069
+### CWB open data:
+- https://opendata.cwb.gov.tw/index
 
 ## 個人檔案：
 ### Linkedin: 
